@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://juyim.github.io/Ypd/sitemap.Ypd.gz
